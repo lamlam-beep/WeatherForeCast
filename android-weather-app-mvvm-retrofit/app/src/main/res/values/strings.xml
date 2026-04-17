@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="search">Search</string>
+    <string name="weather_icon">Weather icon</string>
+    <string name="hanoi">Hanoi</string>
+    <string name="_27_c">27°C</string>
+    <string name="overcast_clouds">Overcast clouds</string>
+    <string name="humidity_83">Humidity: 83%</string>
+    <string name="wind_2_93_m_s">Wind: 2.93 m/s</string>
+    <string name="feels_like_30_03_c">Feels like: 30.03°C</string>
+    <string name="_5_day_forecast">5-Day Forecast</string>
+    <string name="_2026_04_17_03_00_00">2026-04-17 03:00:00</string>
+    <string name="light_rain">Light rain</string>
+    <string name="_27_02_c">27.02°C</string>
+</resources>
